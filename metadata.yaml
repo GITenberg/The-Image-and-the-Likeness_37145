@@ -1,0 +1,29 @@
+_repo: The-Image-and-the-Likeness_37145
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37145-h/images/cover_1.jpg
+creator:
+  author:
+    agent_name: Campbell, John Scott
+    aliases:
+    - Campbell, John S.
+    - Campbell, J. Scott
+    gutenberg_agent_id: '38677'
+    url: http://www.gutenberg.org/2009/agents/38677
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Giants -- Fiction'
+- !lcsh 'East and West -- Fiction'
+title: The Image and the Likeness
+url: http://www.gutenberg.org/ebooks/37145

@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38677'
     url: http://www.gutenberg.org/2009/agents/38677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37145#The-Image-and-the-Likeness
 gutenberg_issued: '2011-08-21'
 gutenberg_type: Text
 identifiers:
